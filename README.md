@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=M-Tech%20Internship&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Python&descAlignY=60&descAlign=50" width="100%"/>
 
@@ -19,10 +19,10 @@
 
 <br/>
 
-[![Weeks Completed](https://img.shields.io/badge/Weeks%20Completed-2-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/hamzabadshah10/m-tech_internship_tasks)
-[![Tasks Done](https://img.shields.io/badge/Tasks%20Completed-8-blueviolet?style=for-the-badge&logo=task&logoColor=white)](https://github.com/hamzabadshah10/m-tech_internship_tasks)
+[![Weeks Completed](https://img.shields.io/badge/Weeks%20Completed-3-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/hamzabadshah10/m-tech_internship_tasks)
+[![Tasks Done](https://img.shields.io/badge/Tasks%20Completed-13-blueviolet?style=for-the-badge&logo=task&logoColor=white)](https://github.com/hamzabadshah10/m-tech_internship_tasks)
 [![Projects Built](https://img.shields.io/badge/Projects%20Built-2-ff6b6b?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/hamzabadshah10/m-tech_internship_tasks)
-[![Notebooks](https://img.shields.io/badge/Notebooks-14-orange?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/hamzabadshah10/m-tech_internship_tasks)
+[![Notebooks](https://img.shields.io/badge/Notebooks-38-orange?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/hamzabadshah10/m-tech_internship_tasks)
 
 <br/>
 
@@ -78,12 +78,19 @@ Each week contains:
  ┃     ┣ 📂 Project Demo/
  ┃     └ 📂 promotional compaign effectiveness analyzer/
  ┃
- └ 📂 Week 02/                          ← Machine Learning Deep Dive
-    ┣ 📂 Day 01/  EXP_04 — ML Fundamentals & Workflow
-    ┣ 📂 Day 02/  EXP_05 — Supervised Learning
-    ┣ 📂 Day 03/  EXP_06 — Unsupervised Learning
-    ┣ 📂 Day 04/  EXP_07 — Model Evaluation & Validation
-    └ 📂 Day 05/  EXP_08 — Ensemble Methods
+ ┣ 📂 Week 02/                          ← Machine Learning Deep Dive
+ ┃  ┣ 📂 Day 01/  EXP_04 — ML Fundamentals & Workflow
+ ┃  ┣ 📂 Day 02/  EXP_05 — Supervised Learning
+ ┃  ┣ 📂 Day 03/  EXP_06 — Unsupervised Learning
+ ┃  ┣ 📂 Day 04/  EXP_07 — Model Evaluation & Validation
+ ┃  └ 📂 Day 05/  EXP_08 — Ensemble Methods
+ ┃
+ └ 📂 Week 03/                          ← Advanced AI & Generative AI
+    ┣ 📂 Day 01/  EXP_09 — Deep Learning
+    ┣ 📂 Day 02/  EXP_10 — Computer Vision
+    ┣ 📂 Day 03/  EXP_11 — NLP
+    ┣ 📂 Day 04/  EXP_12 — Generative AI
+    └ 📂 Day 05/  EXP_13 — LLMs and Prompt Engineering
 ```
 
 ---
@@ -236,6 +243,84 @@ python main.py
 
 ---
 
+## 🗓️ Week 03 — Advanced AI & Generative AI
+
+<details>
+<summary><b>📌 Click to Expand Week 03 Details</b></summary>
+
+<br/>
+
+### 🧠 Day 01 — EXP 09: Deep Learning
+
+> Introduction to Artificial Neural Networks, Backpropagation, and Keras.
+
+| Notebook | Description |
+|----------|-------------|
+| `lab_task1_neural_network_keras.ipynb` | Neural Networks implementation using Keras |
+| `lab_task2_backpropagation.ipynb` | Understanding Backpropagation mathematically and conceptually |
+| `exp09_deep_learning_iris_basics.ipynb` | Deep Learning applied to Iris dataset |
+| `exp09_deep_learning_mnist_assignment.ipynb` | Deep Learning on MNIST dataset assignment |
+| `exp09_deep_learning_lab_tasks.ipynb` | Further tasks and experiments in Deep Learning |
+
+---
+
+### 👁️ Day 02 — EXP 10: Computer Vision
+
+> Working with Image data, Convolutional Neural Networks (CNNs), and OpenCV.
+
+| Notebook | Description |
+|----------|-------------|
+| `lab_task1_opencv_basics.ipynb` | Fundamentals of image processing using OpenCV |
+| `lab_task2_cnn.ipynb` | Implementing CNNs for image classification |
+| `exp10_cv_opencv_cnn_basics.ipynb` | Integration of OpenCV and basic CNN models |
+| `exp10_cv_mnist_tasks.ipynb` | Applying CNN to MNIST dataset |
+| `exp10_cv_fashion_mnist_assignment.ipynb` | Fashion MNIST dataset assignment using CV techniques |
+
+---
+
+### 📝 Day 03 — EXP 11: Natural Language Processing (NLP)
+
+> Processing text data, Transformers, and Text Classification.
+
+| Notebook | Description |
+|----------|-------------|
+| `lab_task1_text_preprocessing.ipynb` | Core NLP techniques: tokenization, stemming, lemmatization |
+| `lab_task2_transformers_bert.ipynb` | Introduction to Transformers and BERT |
+| `exp11_nlp_preprocessing_basics.ipynb` | Hands-on text preprocessing |
+| `exp11_nlp_text_classifier_tasks.ipynb` | Building Text Classifiers |
+| `exp11_nlp_spam_classifier_assignment.ipynb` | Spam classification assignment using NLP |
+
+---
+
+### 🎨 Day 04 — EXP 12: Generative AI
+
+> Generative Adversarial Networks (GANs) and Diffusion Models.
+
+| Notebook | Description |
+|----------|-------------|
+| `lab_task1_gans.ipynb` | Introduction and implementation of GANs |
+| `lab_task2_diffusion_models.ipynb` | Concepts and experiments with Diffusion Models |
+| `exp12_genai_concepts_basics.ipynb` | Foundational Generative AI concepts |
+| `exp12_genai_stable_diffusion_tasks.ipynb` | Tasks exploring Stable Diffusion |
+| `exp12_genai_report_assignment.ipynb` | Report assignment for Generative AI |
+
+---
+
+### 💬 Day 05 — EXP 13: LLMs and Prompt Engineering
+
+> Large Language Models and effectively prompting them for tasks.
+
+| Notebook | Description |
+|----------|-------------|
+| `lab_task1_prompt_design.ipynb` | Basics of structuring and designing effective prompts |
+| `exp13_llm_prompt_engineering_basics.ipynb` | Comprehensive Prompt Engineering basics |
+| `exp13_llm_prompts_tasks.ipynb` | Various tasks to practice prompting |
+| `exp13_llm_study_helper_assignment.ipynb` | Building an LLM study helper assignment |
+
+</details>
+
+---
+
 ## 🧠 Skills & Technologies
 
 <div align="center">
@@ -263,6 +348,11 @@ python main.py
 ![ML](https://img.shields.io/badge/Unsupervised-Learning-28a745?style=flat-square)
 ![ML](https://img.shields.io/badge/Ensemble-Methods-28a745?style=flat-square)
 ![ML](https://img.shields.io/badge/Model-Evaluation-28a745?style=flat-square)
+![DL](https://img.shields.io/badge/Deep-Learning-ffc107?style=flat-square)
+![CV](https://img.shields.io/badge/Computer-Vision-ffc107?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Transformers-ffc107?style=flat-square)
+![GenAI](https://img.shields.io/badge/Generative-AI-ffc107?style=flat-square)
+![LLM](https://img.shields.io/badge/LLMs-Prompt_Engineering-ffc107?style=flat-square)
 
 </div>
 
@@ -288,6 +378,15 @@ Week 02 — Machine Learning Deep Dive
   Day 03  Unsupervised Learning           ██████████  ✅ Done
   Day 04  Model Evaluation & Validation   ██████████  ✅ Done
   Day 05  Ensemble Methods                ██████████  ✅ Done
+
+Week 03 — Advanced AI & Generative AI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Day 01  Deep Learning                   ██████████  ✅ Done
+  Day 02  Computer Vision                 ██████████  ✅ Done
+  Day 03  NLP                             ██████████  ✅ Done
+  Day 04  Generative AI                   ██████████  ✅ Done
+  Day 05  LLMs & Prompt Engineering       ██████████  ✅ Done
 ```
 
 ---
